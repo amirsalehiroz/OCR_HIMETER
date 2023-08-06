@@ -14,3 +14,7 @@ https://github.com/tesseract-ocr/tesseract
 
 - After running the software, you should put all the photos in a folder and in the "path folder" section
 Select the photos folder.
+- In the "format" section, you must choose the format for the file
+- In the next section titled "file save type", you should say that you want the entire translated text to be placed in one file or in separate files, which does not apply to PDF files.
+- In the next section, you should choose the path where you want the files to be saved.
+- And in the last part, you have to choose the language for the text, if the text in the photo is English, you have to choose English, and if it is Farsi, you have to choose Farsi. There are two languages, Chinese and Arabic.
