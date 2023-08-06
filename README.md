@@ -3,5 +3,5 @@ This program is for converting image file (png/jpg) to text file (md, doc, txt, 
 For example, you have a series of information on paper and you can have this information forever in your computer memory without the difficulty of typing it, which is a very time-consuming task.
 
 # Instalation
-## pip install -r requrments.txt
-Type this command in your command line to install the prerequisites for this project.
+## git clone https://github.com/amirsalehiroz/OCR_HIMETER.git
+
