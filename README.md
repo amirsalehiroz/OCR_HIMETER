@@ -4,3 +4,4 @@ For example, you have a series of information on paper and you can have this inf
 
 # Instalation
 ## pip install -r requrments.txt
+Type this command in your command line to install the prerequisites for this project.
