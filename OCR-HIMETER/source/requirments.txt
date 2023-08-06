@@ -1,0 +1,5 @@
+customtkinter 
+pillow
+pandas
+pytesseract
+aspose.pdf
