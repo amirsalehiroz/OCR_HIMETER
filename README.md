@@ -8,3 +8,4 @@ After entering the above command and receiving the files, you need the ocr engin
 https://github.com/tesseract-ocr/tesseract
 ## You can install the ocr engine by clicking on the link below
 ### https://www.mediafire.com/file/jhr5j0mtfnqak8v/tesseract-ocr-w64-setup-5.3.1.20230401.exe/file
+After completing the above steps, run the himeter file to run the software
