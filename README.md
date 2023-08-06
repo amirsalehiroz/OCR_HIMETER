@@ -11,3 +11,6 @@ https://github.com/tesseract-ocr/tesseract
 After completing the above steps, run the himeter.exe file to run the software
 
 # Usage
+
+- After running the software, you should put all the photos in a folder and in the "path folder" section
+Select the photos folder
