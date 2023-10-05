@@ -9,7 +9,7 @@ For example, you have a series of information on paper and you can have this inf
 https://github.com/tesseract-ocr/tesseract
 ## You can install the ocr engine by clicking on the link below
 #### https://www.mediafire.com/file/jhr5j0mtfnqak8v/tesseract-ocr-w64-setup-5.3.1.20230401.exe/file
-
+just for test
 
 # Usage
 ## cd OCR_HIMETER
